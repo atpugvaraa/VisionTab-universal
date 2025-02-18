@@ -2,7 +2,7 @@
   <img align="right" height="140" src="https://raw.githubusercontent.com/Broco8Dev/VisionTab/main/icon.png" alt="VisionTab Logo" style="float: right; border-radius: 10px;"/>
 </p>
 
-<h1 align="left">VisionTab - VisionOS NewTab for Chromium</h1>
+<h1 align="left">VisionTab - VisionOS NewTab for all browsers</h1>
 
 <p align="left">
   <strong><a href="https://github.com/Broco8Dev/VisionTab/releases/latest">Download</a></strong>
@@ -16,10 +16,21 @@
 
 ## Overview
 
-VisionTab is a VisionOS styled New Tab for Chromium based web browsers. It's sleek, customizable, and recognizable.
+VisionTab is a VisionOS styled New Tab for all web browsers that allow setting of custom urls. It's sleek, customizable, and recognizable.
 
 **VisionTab Safari Port**
 https://github.com/ntcrft/VisionTab-safari
+
+## How to Use:
+1. Go to your browser settings.
+2. Find Home Tab settings and look for an option to change the home tab page.
+3. You can set ```https://atpugvaraa.github.io/VisionTab/``` as the custom url.
+4. Open a new window/tab and enjoy!
+
+### Else you can:
+1. fork the original repo: https://github.com/Broco8Dev/VisionTab
+2. Setup github pages for free.
+3. Follow the above guide.
 
 ## How to Install:
 1. Download the .zip file frm the latest/preferred release.
